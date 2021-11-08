@@ -1,0 +1,13 @@
+.dashboardLayout {
+  height: 100%;
+}
+.sider {
+  overflow: "auto";
+}
+.logo {
+  margin: 5px;
+  margin-left: 20px;
+}
+.collapseIcon {
+  color: var(--white);
+}
